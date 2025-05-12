@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400&family=Merriweather:wght@400;700&display=swap');
+
+body {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+p {
+    font-size: 18px !important;
+}
+
+h1, h2, h3 {
+    font-family: 'Merriweather', serif !important;
+    font-weight: 700;
+}
+
+.bg-dark{
+    background-color: #999999 !important;
+}
+
+.bg-black{
+    background-color: #1F1F1F !important;
+}
+
+.bg-primary{
+    background-color: #33843a !important;
+}
+
+.text-primary{
+    color: #33843a !important;
+}
+
+.bg-secondary{
+    background-color: #ededed !important;
+}
+
+.text-secondary{
+    color: #ededed !important;
+}
+
+.bg-accent{
+    background-color: #859376 !important;
+}
+
+.text-accent{
+    color: #859376 !important;
+}
+
+.btn-primary{
+    background-color: #33843a !important;
+    border-color: #33843a !important;
+}
